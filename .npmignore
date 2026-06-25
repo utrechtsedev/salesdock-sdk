@@ -1,0 +1,10 @@
+# Source and tooling — only ship dist/
+src/
+test/
+*.config.ts
+tsconfig.json
+coverage/
+.github/
+Salesdock API.json
+.editorconfig
+.prettierrc.json
