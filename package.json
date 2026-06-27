@@ -1,6 +1,6 @@
 {
   "name": "salesdock",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Unofficial, universal, fully-typed TypeScript SDK for the Salesdock API. Not affiliated with Salesdock. Runs on Node.js, Cloudflare Workers, Deno, Bun, and the browser.",
   "keywords": [
     "salesdock",
