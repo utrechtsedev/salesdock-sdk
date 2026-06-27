@@ -1,5 +1,7 @@
 # salesdock
 
+> **Disclaimer:** This is an **unofficial** SDK. It is not affiliated with, endorsed by, or maintained by Salesdock.
+
 A universal, fully-typed **TypeScript SDK for the [Salesdock](https://app.salesdock.nl) API**.
 
 - **Every endpoint** of the Salesdock API, as typed resource methods (sales, leads, forms, products, relations, commissions, tasks, dialer, users/organisations, webhooks).
